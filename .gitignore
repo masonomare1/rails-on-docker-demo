@@ -29,7 +29,6 @@ config/master.key
 
 # dotenv
 # TODO Comment out this rule if environment variables can be committed
-.env
 
 ## Environment normalization:
 /.bundle
@@ -68,3 +67,4 @@ yarn-debug.log*
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
+config.bat
